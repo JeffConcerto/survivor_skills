@@ -1,0 +1,1 @@
+print("XP: 30. Status: Awaiting the next quest.")
